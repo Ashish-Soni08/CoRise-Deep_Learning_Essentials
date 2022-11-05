@@ -33,5 +33,5 @@ Use CNNs to improve your sketch to emoji app and create your own face style filt
 ### PROJECT
 Perform Airline Sentiment analysis and Amazon Book rating prediction Tasks using Large Language Models
 
-## TECH STACK:
+## TECH STACK
 Programming Language: **Python**
